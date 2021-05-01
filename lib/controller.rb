@@ -1,0 +1,2 @@
+require 'gossip'
+require 'view'
