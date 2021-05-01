@@ -1,7 +1,7 @@
 # The Gossip Project
 Projet : The Gossip Project - The MVC version • Projet THP • Semaine 4 / jour 5
 ## Comment ça marche ?
-Ce programme va te demander ton nom puis un secret 🤫  
+Ce programme va te demander ton nom puis un secret 🤫 pour les stocker dans un fichier .csv
 <br />
 Pour commencer..  
 Va dans ton terminal 💻  
