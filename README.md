@@ -13,7 +13,7 @@ Le programme va te demander si tu veux "créer un gossip" ou "quitter l'app"
 Commençons par "créer un gossip" !  
 Pour ce faire choisi la bonne option, soit :  
 ``1``  
-Il va te demander ton nom 👋
+Il va te demander ton nom 👋  
 Ensuite tu vas pouvoir lui dire ton plus grand secret 😉  
 <br />
 Ce secret va se retrouver dans un fichier .csv :  
