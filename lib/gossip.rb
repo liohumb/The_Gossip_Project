@@ -10,7 +10,7 @@ class Gossip
   end
 
   def save
-    CSV.open('.db/gossip.csv', 'a') do |csv|
+    CSV.open('db/gossip.csv', 'a') do |csv|
       csv << [@author, @content]
     end
   end
