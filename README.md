@@ -18,7 +18,7 @@ Ensuite tu vas pouvoir lui dire ton plus grand secret 😉
 <br />
 Ce secret va se retrouver dans un fichier .csv :  
 ``The_Gossip_Project-main/db/gossip.csv``
-<br />
+<br />  
 Ensuite à toi de voir si tu veux "recommencer" ou "quitter"  
 <br />
 Pour terminer, choisi l'option "quitter l'app"   
