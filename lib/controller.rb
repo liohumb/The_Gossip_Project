@@ -11,6 +11,7 @@ class Controller
     params = @view.create_gossip
     gossip = Gossip.new(params [:author], params[:content])
     gossip.save
+    system("clear")
   end
 
 end
